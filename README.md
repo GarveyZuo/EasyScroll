@@ -1,6 +1,7 @@
 # easyscroll
 
 > A Vue.js project to solve the sroll problem on pc
+>https://garveyzuo.github.io/easyscroll.github.io/#/ 
 
 ## Build Setup
 
