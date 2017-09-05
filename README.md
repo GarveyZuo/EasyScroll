@@ -4,7 +4,8 @@
 >https://garveyzuo.github.io/easyscroll.github.io/#/ 
 
 ## Build Setup
-
+项目render函数采用jsx语法完成，项目中需要安装jsx插件，具体请访问
+https://github.com/vuejs/babel-plugin-transform-vue-jsx#usage
 ``` bash
 # install dependencies
 npm install
