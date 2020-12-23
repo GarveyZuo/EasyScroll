@@ -163,7 +163,6 @@ export default {
       let heightPercentage, widthPercentage;
       const wrap = this.wrap;
       if (!wrap) return;
-      debugger
       heightPercentage = (wrap.clientHeight * 100 / wrap.scrollHeight);
       widthPercentage = (wrap.clientWidth * 100 / wrap.scrollWidth);
       this.sizeHeight = (heightPercentage < 100) ? (heightPercentage + '%') : '';

@@ -7,7 +7,6 @@ export default function scrollIntoView(container, selected) {
     container.scrollTop = 0;
     return;
   }
-debugger
   const top = selected.offsetTop;
   const bottom = selected.offsetTop + selected.offsetHeight;
   const viewRectTop = container.scrollTop;

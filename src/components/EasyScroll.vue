@@ -188,8 +188,6 @@
       mounted:function () {
         var bodyHei = document.documentElement.clientHeight;
         this.$refs.root.style.height = bodyHei;
-        debugger
-
       },
       methods:{
         addOption:function () {
